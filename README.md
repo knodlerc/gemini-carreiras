@@ -1,5 +1,5 @@
 # Gemini Carreiras: 
-### Seu Consultor de Carreira com Inteligência Artificial
+### Seu Futuro Profissional Decifrado pela Inteligência Artificial 
 
 ### 🟡 Visão Geral:
 
