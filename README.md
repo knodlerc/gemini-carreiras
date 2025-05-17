@@ -84,7 +84,7 @@ O projeto "Gemini Carreiras" visa desenvolver um agente de Inteligência Artific
    6.1 **Profissão:** a sua profissão atual<br>
    6.2 **Vaga:** a vaga no qual deseja se candidatar<br>
    6.3 **Currículo:** copie e cole o texto do seu currículo para o agente<br><br>
-7. Caso você não queria utilizar seu currículo ou queria apenas testar a ferramenta, disponibilizamos algums scenários para teste<br><br>
+7. Caso você não queria utilizar seu currículo ou queria apenas testar a ferramenta, disponibilizamos algums cenários para teste<br><br>
    7.1 **Cenário 1 - Área da Medicina**<br>
       - **Profissão:** médico<br>
       - **Vaga:** médico plantonista<br>
