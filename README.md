@@ -77,23 +77,25 @@ O projeto "Gemini Carreiras" visa desenvolver um agente de Inteligência Artific
    ***Isso altera a experiência final do usuário final. Utilize apenas para identificar problemas nos prompts.***<br><br>
    5.2 **Modelos Gemini** - as variáveis **_MODELO_GENAI** e **_MODELO_GENAI_THINKING** controlam os modelos Gemini utilizados pelos agentes. O modelo **Thinking** é utilizado apenas pelo agente que realiza a análise e comparação do currículo.<br><br>
    ***Em caso de problemas com os modelos, altere os valores destas variávies***<br><br>
-6. Ao executar o agente três informações serão solicitadas:
-  * **Profissão:** a sua profissão atual
-  * **Vaga:** a vaga no qual deseja se candidatar
-  * **Currículo:** copie e cole o texto do seu currículo para o agente
-7. Caso você não queria utilizar seu currículo ou queria apenas testar a ferramenta, disponibilizamos algums scenários para teste
-  * **Cenário 1 - Área da Medicina**
-    * **Profissão:** médico
-    * **Vaga:** médico plantonista
-    * **Currículo:** [Baixe currículo de teste em Espanhol](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Medico-Espanhol.txt)<br><br>
-  * **Cenário 2 - Área da Publicidade**
-    * **Profissão:** designer gráfico
-    * **Vaga:** designer gráfico senior
-    * **Currículo:** [Baixe currículo de teste em Inglês](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Designer-Grafico-Ingles.txt)<br><br>
-  * **Cenário 3 - Área da Técnologia da Informação**
-    * **Profissão:** programador
-    * **Vaga:** gerente de TI
-    * **Currículo:** [Baixe currículo de teste em Português do Brasil](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Programador-PortuguesBrasil.txt)<br><br>    
+6. Ao executar o agente três informações deverão ser fornecidas:<br>
+   6.1 **Profissão:** a sua profissão atual<br>
+   6.2 **Vaga:** a vaga no qual deseja se candidatar<br>
+   6.3 **Currículo:** copie e cole o texto do seu currículo para o agente<br><br>
+7. Caso você não queria utilizar seu currículo ou queria apenas testar a ferramenta, disponibilizamos algums scenários para teste<br><br>
+   7.1 **Cenário 1 - Área da Medicina**<br>
+      - **Profissão:** médico<br>
+      - **Vaga:** médico plantonista<br>
+      - **Currículo:** [currículo de teste em Espanhol](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Medico-Espanhol.txt)<br><br>
+      
+   7.2 **Cenário 2 - Área da Publicidade**<br>
+      - **Profissão:** designer gráfico<br>
+      - **Vaga:** designer gráfico senior<br>
+      - **Currículo:** [currículo de teste em Inglês](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Designer-Grafico-Ingles.txt)<br><br>
+      
+   7.3 **Cenário 3 - Área da Técnologia da Informação**<br>
+      - **Profissão:** programador<br>
+      - **Vaga:** gerente de TI<br>
+      - **Currículo:** [currículo de teste em Português do Brasil](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Programador-PortuguesBrasil.txt)<br><br>    
    
    <br><br><br><br><br>
    
