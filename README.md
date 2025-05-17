@@ -5,6 +5,8 @@
 
 O projeto "Gemini Carreiras" visa desenvolver um agente de Inteligência Artificial sofisticado, construído sobre a arquitetura do Google Gemini, capaz de atuar como um consultor de carreira personalizado. A ferramenta analisa currículos enviados por usuários e, com base em uma profunda compreensão do mercado de trabalho atual, oferece insights valiosos e recomendações práticas para o aprimoramento de habilidades técnicas e comportamentais. O objetivo principal é capacitar os indivíduos a alinhar seus perfis profissionais com as demandas do mercado, aumentando suas chances de sucesso em suas jornadas de carreira.<br><br>
 
+🎥 [**Vídeo de apresentação do Gemini Carreiras**](https://youtu.be/OHNqO8-DMmA)<br><br>
+ 
 ## 🏆 Benefícios do Projeto:
 
   * **Aconselhamento de carreira Aaessível:** Democratiza o acesso a orientação profissional de qualidade, que muitas vezes pode ser dispendiosa ou inacessível.
@@ -14,8 +16,7 @@ O projeto "Gemini Carreiras" visa desenvolver um agente de Inteligência Artific
   * **Eficiência e Rapidez:** O agente de IA pode analisar currículos e gerar feedback de forma muito mais rápida do que um consultor humano.<br><br>
 
   Em resumo, **"Gemini Carreiras"** representa uma solução inovadora e poderosa para auxiliar profissionais em todas as fases de suas carreiras. Ao integrar a inteligência do Google Gemini com a análise de currículos e o conhecimento do mercado de trabalho, o projeto tem o potencial de transformar a forma como as pessoas planejam e desenvolvem suas trajetórias profissionais, tornando-as mais alinhadas com as oportunidades e exigências do mundo do trabalho.<br><br>
-
-
+ 
 ## 💡 Principais funcionalidades:
 
 ### 👩‍💻 Análise Inteligente de Currículo:
