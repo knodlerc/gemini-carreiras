@@ -3,10 +3,12 @@
 
 ### 🟡 Visão Geral:
 
-O projeto "Gemini Carreiras" visa desenvolver um agente de Inteligência Artificial sofisticado, construído sobre a arquitetura do Google Gemini, capaz de atuar como um consultor de carreira personalizado. A ferramenta analisa currículos enviados por usuários e, com base em uma profunda compreensão do mercado de trabalho atual, oferece insights valiosos e recomendações práticas para o aprimoramento de habilidades técnicas e comportamentais. O objetivo principal é capacitar os indivíduos a alinhar seus perfis profissionais com as demandas do mercado, aumentando suas chances de sucesso em suas jornadas de carreira.<br><br>
+O projeto "Gemini Carreiras" visa desenvolver um agente de Inteligência Artificial sofisticado, construído sobre a arquitetura do Google Gemini, capaz de atuar como um consultor de carreira personalizado. A ferramenta analisa currículos enviados por usuários e, com base em uma profunda compreensão do mercado de trabalho atual, oferece insights valiosos e recomendações práticas para o aprimoramento de habilidades técnicas e comportamentais. O objetivo principal é capacitar os indivíduos a alinhar seus perfis profissionais com as demandas do mercado, aumentando suas chances de sucesso em suas jornadas de carreira.<br>
 
-🎥 [**Vídeo de apresentação do Gemini Carreiras**](https://youtu.be/OHNqO8-DMmA)<br><br>
- 
+| 🎥 [**Vídeo de apresentação do Gemini Carreiras**](https://youtu.be/OHNqO8-DMmA) | 📄[**Apresentação Power Point do Gemini Carreiras**](https://github.com/knodlerc/gemini-carreiras/blob/main/marketing/Gemini-Carreiras-O-Futuro-da-Sua-Carreira-Chegou.pdf) |
+|----|----|
+| [![Gemini Carreiras vídeo no Youtube](https://github.com/knodlerc/gemini-carreiras/blob/main/marketing/Gemini-Carreiras-Youtube-small.png)](https://youtu.be/OHNqO8-DMmA) | [![Gemini Carreiras apresentação](https://github.com/knodlerc/gemini-carreiras/blob/main/marketing/Gemini-Carreiras-O-Futuro-da-Sua-Carreira-Chegou-Slide1-small.png)](https://github.com/knodlerc/gemini-carreiras/blob/main/marketing/Gemini-Carreiras-O-Futuro-da-Sua-Carreira-Chegou.pdf) |
+
 ## 🏆 Benefícios do Projeto:
 
   * **Aconselhamento de carreira Aaessível:** Democratiza o acesso a orientação profissional de qualidade, que muitas vezes pode ser dispendiosa ou inacessível.
