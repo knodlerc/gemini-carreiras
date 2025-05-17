@@ -70,14 +70,31 @@ O projeto "Gemini Carreiras" visa desenvolver um agente de Inteligência Artific
 1. Crie uma chave de API no [**AI Studio (Gemini)**](https://aistudio.google.com/app/apikey) - [Vídeo no Youtube em Inglês](https://www.youtube.com/watch?v=6BRyynZkvf0)<br><br>
 2. Acesse o [**Google Colab**](https://colab.research.google.com) e adicione uma nova entrada no cofre de senhas do Google Colab para armazenar a chave de API criada.<br>
    Utilize o nome ***GOOGLE_API_KEY***. - [Vídeo no Youtube em Inglês](https://colab.research.google.com)<br><br>
-5. Baixe o código fonte do **"Gemini Carreiras"** >> [projeto-gemini-carreiras.ipynb](https://github.com/kndlerc/gemini-carreiras/blob/main/projeto-gemini-carreiras.ipynb)<br><br>
-6. Carrege o código fonte no **Google Colab** clicando em *File*->*Upload notebook*. Clique em *Browse* e selecione o arquivo baixado.<br><br>
-7. O agente possui algumas configurações que podem ser ajustadas antes da execução<br><br>
-   6.1 **Debug** - altere a variável **_DEBUG_AGENTS** para **True** para que o resultado dos agentes utilizados seja apresentado para o usuário. <br><br>
+3. Baixe o código fonte do **"Gemini Carreiras"** >> [projeto-gemini-carreiras.ipynb](https://github.com/kndlerc/gemini-carreiras/blob/main/projeto-gemini-carreiras.ipynb)<br><br>
+4. Carrege o código fonte no **Google Colab** clicando em *File*->*Upload notebook*. Clique em *Browse* e selecione o arquivo baixado.<br><br>
+5. O agente possui algumas configurações que podem ser ajustadas antes da execução<br><br>
+   5.1 **Debug** - altere a variável **_DEBUG_AGENTS** para **True** para que o resultado dos agentes utilizados seja apresentado para o usuário. <br><br>
    ***Isso altera a experiência final do usuário final. Utilize apenas para identificar problemas nos prompts.***<br><br>
-   6.2 **Modelos Gemini** - as variáveis **_MODELO_GENAI** e **_MODELO_GENAI_THINKING** controlam os modelos Gemini utilizados pelos agentes. O modelo **Thinking** é utilizado apenas pelo agente que realiza a análise e comparação do currículo.<br><br>
-   ***Em caso de problemas com os modelos, altere os valores destas variávies***
-
+   5.2 **Modelos Gemini** - as variáveis **_MODELO_GENAI** e **_MODELO_GENAI_THINKING** controlam os modelos Gemini utilizados pelos agentes. O modelo **Thinking** é utilizado apenas pelo agente que realiza a análise e comparação do currículo.<br><br>
+   ***Em caso de problemas com os modelos, altere os valores destas variávies***<br><br>
+6. Ao executar o agente três informações serão solicitadas:
+  * **Profissão:** a sua profissão atual
+  * **Vaga:** a vaga no qual deseja se candidatar
+  * **Currículo:** copie e cole o texto do seu currículo para o agente
+7. Caso você não queria utilizar seu currículo ou queria apenas testar a ferramenta, disponibilizamos algums scenários para teste
+  * **Cenário 1 - Área da Medicina**
+    * **Profissão:** médico
+    * **Vaga:** médico plantonista
+    * **Currículo:** [Baixe currículo de teste em Espanhol](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Medico-Espanhol.txt)<br><br>
+  * **Cenário 2 - Área da Publicidade**
+    * **Profissão:** designer gráfico
+    * **Vaga:** designer gráfico senior
+    * **Currículo:** [Baixe currículo de teste em Inglês](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Designer-Grafico-Ingles.txt)<br><br>
+  * **Cenário 3 - Área da Técnologia da Informação**
+    * **Profissão:** programador
+    * **Vaga:** gerente de TI
+    * **Currículo:** [Baixe currículo de teste em Português do Brasil](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Programador-PortuguesBrasil.txt)<br><br>    
+   
    <br><br><br><br><br>
    
    
