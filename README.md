@@ -98,7 +98,11 @@ O projeto "Gemini Carreiras" visa desenvolver um agente de Inteligência Artific
    7.3 **Cenário 3 - Área da Técnologia da Informação**<br>
       - **Profissão:** programador<br>
       - **Vaga:** gerente de TI<br>
-      - **Currículo:** [currículo de teste em Português do Brasil](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Programador-PortuguesBrasil.txt)<br><br>    
+      - **Currículo:** [currículo de teste em Português do Brasil](https://github.com/knodlerc/gemini-carreiras/blob/main/teste-cv-Programador-PortuguesBrasil.txt)<br><br>
+
+## 📌Fluxo de chamada dos agentes
+
+![Fluxo de chamada dos agentes](https://github.com/knodlerc/gemini-carreiras/blob/main/fluxo/Fluxo-Gemini-Carreiras-drawio.png)
    
    <br><br><br><br><br>
    
