@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
+  <diagram name="Page-1" id="_fhDNvmDM5GPmacVxHHE">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-51" value="Agente Recursos Humanos" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-41" value="Agente Buscador Cursos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="94" y="372" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-42" target="66x0iRcSXEb_GLcNg7mB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-42" value="Agente Recursos Humanos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="264" y="372" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-1" value="Início" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-2" value="Boas vindas e mensagem dados pessoais" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-1" target="66x0iRcSXEb_GLcNg7mB-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454" y="500" as="sourcePoint" />
+            <mxPoint x="504" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-4" target="66x0iRcSXEb_GLcNg7mB-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-4" value="Coleta de informações" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-2" target="66x0iRcSXEb_GLcNg7mB-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="200" as="sourcePoint" />
+            <mxPoint x="321" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-38" target="66x0iRcSXEb_GLcNg7mB-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="834" y="340" as="sourcePoint" />
+            <mxPoint x="154" y="397" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="697" y="330" />
+              <mxPoint x="154" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-28" value="Comentário sobre Profissão" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="637" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-31" target="66x0iRcSXEb_GLcNg7mB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-31" value="Agente Tradução" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="94" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-32" target="66x0iRcSXEb_GLcNg7mB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-32" value="Agente Proteção Dados (LGPD)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="274" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-28" target="66x0iRcSXEb_GLcNg7mB-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="190" as="sourcePoint" />
+            <mxPoint x="314" y="266" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="697" y="200" />
+              <mxPoint x="154" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-36" target="66x0iRcSXEb_GLcNg7mB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-36" value="Comentário sobre avanços da&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;profissão&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="454" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-38" value="Agente buscador Vagas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="637" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-41" target="66x0iRcSXEb_GLcNg7mB-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66x0iRcSXEb_GLcNg7mB-44" target="66x0iRcSXEb_GLcNg7mB-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-44" value="Apresentação da análise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="372" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-47" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637" y="372" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-49" value="Gemini Carreiras - Fluxo do sistema" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="94" y="40" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-52" value="Google&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gen API Chat&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66x0iRcSXEb_GLcNg7mB-53" value="Google&lt;div&gt;Gen AI Agent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
